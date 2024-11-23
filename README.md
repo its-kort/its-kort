@@ -6,10 +6,10 @@
 **`A Software Engineering Student`**
 
 ---
-![](https://komarev.com/ghpvc/?username=its-kurt&abbreviated=true&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=its-kort&abbreviated=true&style=for-the-badge)
 
 ### :comet: About Me
-A Software Engineering student studying front-end and back-end development, driven to bridge technical skills with user-centric design and experience.
+A Software Engineering student at FEU Institute of Technology and Junior Officer in the Creatives Commitee of ACM Student Chapter. Skilled in web and game development, driven to bridge technical skills with user-centric design and experience.
 
 ### :computer: Skills and Experience
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -22,7 +22,7 @@ A Software Engineering student studying front-end and back-end development, driv
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=its-kurtt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=its-kort&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ### 🌐 Socials
 
