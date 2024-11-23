@@ -26,9 +26,19 @@ A Software Engineering student at FEU Institute of Technology and Junior Officer
 
 ### 🌐 Socials
 
-<a href="https://discord.com/users/its.kurt"> 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/KurtNDeslate/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/its.kortt/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/its.kurt)
+
+<!-- <a style="text-decoration:none" href="https://discord.com/users/its.kurt"> 
   <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="30" alt="discord logo"  />
-</a> 
+</a>
+<a style="text-decoration:none" href="https://www.facebook.com/KurtNDeslate/"> 
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" height="30" alt="facebook logo"  />
+</a>
+<a style="text-decoration:none" href="https://www.instagram.com/its.kortt/"> 
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" height="30" alt="instagram logo"  />
+</a> -->
 
 <!-- <a href="https://github.com/its-kurtt">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
