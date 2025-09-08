@@ -9,7 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=its-kort&abbreviated=true&style=for-the-badge)
 
 ### :comet: About Me
-A Software Engineering student at FEU Institute of Technology and Junior Officer in the Creatives Commitee of ACM Student Chapter. Skilled in web and game development, driven to bridge technical skills with user-centric design and experience.
+A Software Engineering student at FEU Institute of Technology and Co-Director for Creatives of ACM Student Chapter. Skilled in web and game development, driven to bridge technical skills with user-centric design and experience.
 
 ### :computer: Skills and Experience
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
